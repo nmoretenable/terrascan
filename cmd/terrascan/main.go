@@ -20,4 +20,5 @@ import "github.com/tenable/terrascan/pkg/cli"
 
 func main() {
 	cli.Execute()
+
 }
